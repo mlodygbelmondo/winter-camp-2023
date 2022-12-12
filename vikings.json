@@ -1,0 +1,72 @@
+[
+  {
+    "fullName": "Geir Ysoppasson",
+    "village": "Haukagil",
+    "age": 52,
+    "valkyrie": "Kagrun",
+    "hasSon": true
+  },
+  {
+    "fullName": "Hialti Eysteinsson",
+    "village": "Halsar",
+    "age": 42,
+    "valkyrie": "Hjotha",
+    "hasSon": false
+  },
+  {
+    "fullName": "Hvitserk Beinersson",
+    "village": "Hranastaoir",
+    "age": 30,
+    "valkyrie": "Bryrdmadra",
+    "hasSon": true
+  },
+  {
+    "fullName": "Arnor Slothisson",
+    "village": "Botnsa",
+    "age": 18,
+    "valkyrie": "Hidis",
+    "hasSon": false
+  },
+  {
+    "fullName": "Bersi Oswaldsson",
+    "village": "Manarfell",
+    "age": 45,
+    "valkyrie": "Hlanhylde",
+    "hasSon": true
+  },
+  {
+    "fullName": "Knútr Sæbbisson",
+    "village": "Halland",
+    "age": 67,
+    "valkyrie": "Skandul",
+    "hasSon": true
+  },
+  {
+    "fullName": "Thorvid Storolfsson",
+    "village": "Geirsa",
+    "age": 18,
+    "valkyrie": "Guorvif",
+    "hasSon": false
+  },
+  {
+    "fullName": "Vestar Gunnsteinsson",
+    "village": "Skalaholt",
+    "age": 32,
+    "valkyrie": "Gelmold",
+    "hasSon": false
+  },
+  {
+    "fullName": "Borstig Hämingsson",
+    "village": "Mooolfsgnupr",
+    "age": 83,
+    "valkyrie": "Hlala",
+    "hasSon": false
+  },
+  {
+    "fullName": "Hæming Asbjornsson",
+    "village": "Hleiorargaror",
+    "age": 30,
+    "valkyrie": "Skadul",
+    "hasSon": false
+  }
+]
